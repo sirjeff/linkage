@@ -1,7 +1,6 @@
 ---
 Name: linkage
 After:
-  - 'framework/*'
   - 'cms/*'
 ---
 AdminRootController:
