@@ -3,9 +3,16 @@ Linkage add-on for SilverStripe
 
 ## Introduction
 
-Linkage is a very simple landing page Silverstripe add-on.
+Linkage is a very simple landing page SilverStripe add-on.
 
 It provides a place to add links that appear on the CMS landing page, in place of the default "Pages", using the built in GridField.
+
+![Screenshot](img/SSv3.1.10.png)
+*ScreenShot from SilverStripe 3.1.10*
+
+
+![Screenshot](img/SSv3.5.3(custom_skin).png)
+*ScreenShot from SilverStripe 3.5.3 with a custom OMI Ltd. theme*
 
 Note: This is early days and the add-on is NOT all that 'flash' at the mo.
 
@@ -39,9 +46,18 @@ or if you don't have Composer you can download composer.phar and then run:
 
 ## Issues
 There is a problem in the way the module holds focus in the CMS. I'm looking at this now ... it might mean that I cannot have the page the landing by default without the user having to modify their _config.yml file
+Please use [Lnikage Issues](/sirjeff/linkage/issues) to add any bungness you find, or check to see what's going on in the funky functions world.
+
+
+## The Future...
+- Nicer look'n'feel
+- Settings such as 'Don't be default landing' or 'x Links per page'
+- Proper link adding. Currently they be text fields. Would preffer something more 'URL-esque'
+- Import and Export
+- URL test when adding a link
 
 ## Maintainers
 
 Dwayne &lt;dwayne at omi dot nz&gt;
 
-OMI &lt;adm at omi dot nz&gt;
+OMI Ltd. &lt;adm at omi dot nz&gt;
