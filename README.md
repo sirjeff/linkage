@@ -5,9 +5,9 @@ Linkage add-on for SilverStripe
 
 Linkage is a very simple landing page Silverstripe add-on.
 
-It provides a place to add links that appear on the CMS landing page, in place of the default "Pages"
+It provides a place to add links that appear on the CMS landing page, in place of the default "Pages", using the built in GridField.
 
-Note: This is early days and the add-on is all that 'flash' at the mo.
+Note: This is early days and the add-on is NOT all that 'flash' at the mo.
 Feel free to comment with ideas!
 
 ## Requirements
@@ -18,8 +18,10 @@ SilverStripe Framework 3.0+
 
 ## Installation
 
-Please follow the [standard module installation documentation](http://doc.silverstripe.org/framework/en/topics/modules). The module should reside in a toplevel folder called `Linkage/`.
+Please follow the [standard module installation documentation](http://doc.silverstripe.org/framework/en/topics/modules).
+The module should reside in a toplevel folder called `Linkage/`.
 
 ## Maintainers
 
 Dwayne &lt;dwayne at omi dot nz&gt;
+OMI &lt;adm at omi dot nz&gt;
