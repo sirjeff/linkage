@@ -1,0 +1,8 @@
+---
+Name: linkage
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+AdminRootController:
+  default_panel: 'LinkageAdmin'
