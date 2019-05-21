@@ -28,13 +28,13 @@ SilverStripe Framework 3.0+
 
 Please follow the [standard module installation documentation](https://docs.silverstripe.org/en/3/developer_guides/extending/modules/)
 
-The module should reside in a toplevel folder called `linkage/`
+The module should reside in a top-level directory called `linkage/`
 
 Don't forget, no matter how you choose to install, once done you must build and flush `/dev/build?flush=all`
 
 ### Manual
 - Download the latest (v1.0.0) version on Linkage
-- Unzip in the root directory of your project (that should be wehre all your SilverStripe files are (cms,framework,reports etc))
+- Unzip in the root directory of your project (that should be where all your SilverStripe files are (cms,framework,reports etc))
 - rename the Linkage directory to "linkage"
 - perform a little dance
 
@@ -52,7 +52,7 @@ Please use the [issues](/sirjeff/linkage/issues) link to add any bungness you fi
 ## The Future...
 - Nicer look'n'feel
 - Settings such as 'Don't be default landing' or 'x Links per page'
-- Proper link adding. Currently they be text fields. Would preffer something more 'URL-esque'
+- Proper link adding. Currently they be text fields. Would prefer something more 'URL-esque'
 - Import and Export
 - URL test when adding a link
 
