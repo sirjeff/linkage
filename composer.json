@@ -16,6 +16,10 @@
   "silverstripe/framework": "~3.0"
  },
  "extra": {
-  "installer-name": "linkage"
+  "installer-name": "linkage",
+  "screenshots": [
+   "img/SSv3.5.3(custom_skin).png",
+   "img/SSv3.1.10.png"
+  ]
  }
 }	
