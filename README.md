@@ -37,6 +37,7 @@ Don't forget, no matter how you choose to install, once done you must build and 
 - Unzip in the root directory of your project (that should be wehre all your SilverStripe files are (cms,framework,reports etc))
 - rename the Linkage directory to "linkage"
 - perform a little dance
+
 ### Composer
 `composer require sirjeff/linkage 1.0.0`
 
@@ -46,8 +47,7 @@ or if you don't have Composer you can download composer.phar and then run:
 
 ## Issues
 There is a problem in the way the module holds focus in the CMS. I'm looking at this now ... it might mean that I cannot have the page the landing by default without the user having to modify their _config.yml file
-Please use [Lnikage Issues](/sirjeff/linkage/issues) to add any bungness you find, or check to see what's going on in the funky functions world.
-
+Please use the [issues](/sirjeff/linkage/issues) link to add any bungness you find, or check to see what's going on in the funky functions world.
 
 ## The Future...
 - Nicer look'n'feel
