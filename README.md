@@ -18,7 +18,7 @@ SilverStripe Framework 3.0+
 
 ## Installation
 
-Please follow the [standard module installation documentation](http://doc.silverstripe.org/framework/en/topics/modules).
+Please follow the [standard module installation documentation](https://docs.silverstripe.org/en/3/developer_guides/extending/modules/).
 The module should reside in a toplevel folder called `linkage/`.
 
 ## Maintainers
