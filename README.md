@@ -20,6 +20,15 @@ SilverStripe Framework 3.0+
 
 Please follow the [standard module installation documentation](https://docs.silverstripe.org/en/3/developer_guides/extending/modules/).
 The module should reside in a toplevel folder called `linkage/`.
+### Manual
+- * Download the latest (v1.0.0) version on Linkage
+- * Unzip in the root directory of your project (that should be wehre all your SilverStripe files are (cms,framework,reports etc))
+- * rename the Linkage directory to "linkage"
+- * perform a little dance
+### Composer
+`composer require sirjeff/linkage 1.0.0`
+or if you don't have Composer you can download composer.phar and then run:
+`php composer.phar require sirjeff/linkage 1.0.0`
 
 ## Maintainers
 
