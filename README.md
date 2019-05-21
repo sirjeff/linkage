@@ -11,7 +11,7 @@ It provides a place to add links that appear on the CMS landing page, in place o
 *ScreenShot from SilverStripe 3.1.10*
 
 
-![Screenshot](img/SSv3.5.3(custom_skin).png)
+![Screenshot](img/SSv3.5.3.png)
 *ScreenShot from SilverStripe 3.5.3 with a custom OMI Ltd. theme*
 
 Note: This is early days and the add-on is NOT all that 'flash' at the mo.
