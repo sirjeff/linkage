@@ -18,9 +18,12 @@ SilverStripe Framework 3.0+
 
 ## Installation
 
-Please follow the [standard module installation documentation](https://docs.silverstripe.org/en/3/developer_guides/extending/modules/).
+Please follow the [standard module installation documentation](https://docs.silverstripe.org/en/3/developer_guides/extending/modules/)
 
-The module should reside in a toplevel folder called `linkage/`.
+The module should reside in a toplevel folder called `linkage/`
+
+Don't forget, no matter how you choose to install, once done you must build and flush `/dev/build?flush=all`
+
 ### Manual
 - Download the latest (v1.0.0) version on Linkage
 - Unzip in the root directory of your project (that should be wehre all your SilverStripe files are (cms,framework,reports etc))
