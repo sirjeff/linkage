@@ -1,15 +1,23 @@
 /* Linkage */
 
-h4.linkage{padding:0;margin:0;width:100%}
-h4.linkage a{color:#222;display:inline-block;float:left;padding:3px}
-h4.linkage a.link{background:#eee;width:95%;text-align:center;border:solid 2px #999;line-height:1.5;border-radius:5px;}
-h4.linkage a.editlink{margin-right:15px;border:dotted 1px #eee;background:#fff;}
-h4.linkage img{margin-left:10px;vertical-align:sub}
-h4.linkage a.editlink img{margin:0}
-div.addlinkage{margin:15px 0}
-div.addlinkage .ui-button-text{font-style:normal;padding:.3em 1em .3em 1.5em}
+h4.linkage{padding:0;margin:2px auto;width:100%;text-align:center}
+h4.linkage a{color:#222;display:inline-block;margin:0 auto;padding:3px 0;background:rgb(250,255,250);width:98%;text-align:center;border:solid 1px #999;line-height:1.5;border-radius:5px;}
+h4.linkage a:hover{background:rgb(245,250,245)}
+h4.linkage a img{margin-left:10px;vertical-align:sub;display:none}
+h4.linkage a img.blank{display:inline-block;opacity:0.3}
 
+.cms #Form_EditForm_Linkage table.ss-gridfield-table{margin-top:10px}
+
+.cms table.ss-gridfield-table tbody{background-color:transparent !important}
 .cms #Form_EditForm_Linkage table.ss-gridfield-table tr,
 .cms #Form_EditForm_Linkage table.ss-gridfield-table tr.even,
 .cms #Form_EditForm_Linkage table.ss-gridfield-table tr.odd{background-color:transparent !important}
-td.col-HTMLDescription{padding:4px !important}
+.cms #Form_EditForm_Linkage table.ss-gridfield-table td:last-child,
+.cms #Form_EditForm_Linkage table.ss-gridfield-table td:first-child,
+.cms #Form_EditForm_Linkage table.ss-gridfield-table tr td{border:0 none !important}
+
+td.col-HTMLDescription{padding:2px !important}
+td.col-buttons img{opacity:0.6;border:0;padding:0;margin:0;cursor:pointer}
+td.col-buttons img:hover{opacity:1}
+
+.cms #Form_EditForm_Linkage .ss-ui-button.ss-ui-action-constructive{position:absolute;bottom:10px;}
