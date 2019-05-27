@@ -46,8 +46,9 @@ or if you don't have Composer you can download composer.phar and then run:
 `php composer.phar require sirjeff/linkage 1.1.0`
 
 Note: don't forget to change the version to the one which you're after,
+- dev-master Always the latest code ... can be risky but!
 - 1.0.0 The first version, not realy worth it.
-- 1.1.0 The latest. Major code tidy and minor style changes.
+- 1.1.0 Major code tidy and minor style changes.
 
 ## Issues
 There is a problem in the way the module holds focus in the CMS. I'm looking at this now ... it might mean that I cannot have the page the landing by default without the user having to modify their _config.yml file
