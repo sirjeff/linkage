@@ -1,7 +1,6 @@
-<h4 class=linkage>
- <a class=editlink href="/admin/linkage/Linkage/EditForm/field/Linkage/item/$ID/edit">
-  <img src="linkage/img/edit.gif">
+<h4 class="linkage">
+ <a href="$URL" target="_$ShowExt">
+  $Title<img class="$ShowExt" src="linkage/img/external.gif" border="0" alt="external link">
  </a>
- <a class=link href="$URL"$Target>$Title$ShowExt</a>
 </h4>
 
