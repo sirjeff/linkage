@@ -7,11 +7,11 @@ Linkage is a very simple landing page SilverStripe add-on.
 
 It provides a place to add links that appear on the CMS landing page, in place of the default "Pages", using the built in GridField.
 
-![Screenshot](img/SSv3.1.10.png)
+![Screenshot](img/screen-grabs/SSv3.1.10.png)
 *ScreenShot from SilverStripe 3.1.10*
 
 
-![Screenshot](img/SSv3.5.3.png)
+![Screenshot](img/screen-grabs/SSv3.5.3.png)
 *ScreenShot from SilverStripe 3.5.3 with a custom OMI Ltd. theme*
 
 Note: This is early days and the add-on is NOT all that 'flash' at the mo.
