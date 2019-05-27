@@ -1,0 +1,1 @@
+<img src="linkage/img/edit.gif" class="action action-detail edit-link" onclick='location.href="$Link"' border="0" alt="edit link">
