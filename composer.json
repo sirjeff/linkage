@@ -1,25 +1,25 @@
 {
- "name": "sirjeff/linkage",
- "description": "Linkage add-on for SilverStripe",
- "type": "silverstripe-module",
- "homepage": "https://github.com/sirjeff/linkage",
- "keywords": ["silverstripe","url","links","speed dial","bookmarks","landing page"],
- "license": "BSD-3-Clause",
- "authors": [{
-  "name": "Dwayne",
-  "email": "dwayne@omi.nz",
-  "role": "Developer"
- }],
- "support": {"issues": "https://github.com/sirjeff/linkage/issues"},
- "require": {
-  "silverstripe/cms": "~3.0",
-  "silverstripe/framework": "~3.0"
- },
- "extra": {
-  "installer-name": "linkage",
-  "screenshots": [
-   "img/SSv3.5.3.png",
-   "img/SSv3.1.10.png"
-  ]
- }
+  "name": "sirjeff/linkage",
+  "description": "Linkage add-on for SilverStripe",
+  "type": "silverstripe-module",
+  "homepage": "https://github.com/sirjeff/linkage",
+  "keywords": ["silverstripe","url","links","speed dial","bookmarks","landing page"],
+  "license": "BSD-3-Clause",
+  "authors": [{
+    "name": "Dwayne",
+    "email": "dwayne@omi.nz",
+    "role": "Developer"
+  }],
+  "support": {"issues": "https://github.com/sirjeff/linkage/issues"},
+  "require": {
+    "silverstripe/cms": "~3.0",
+    "silverstripe/framework": "~3.0"
+  },
+  "extra": {
+    "installer-name": "linkage",
+    "screenshots": [
+      "img/SSv3.5.3.png",
+      "img/SSv3.1.10.png"
+    ]
+  }
 }	
