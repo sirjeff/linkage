@@ -73,7 +73,7 @@ class LinkageAdmin extends ModelAdmin
     private static $managed_models = array('Linkage');
     private static $menu_icon = 'linkage/img/linkage.gif';
     private static $page_length = 50;
-    private static $menu_priority = 100;
+    private static $menu_priority = 110;#2Do: can this be configurable?
     private static $url_priority = 30;
     public function init()
     {
