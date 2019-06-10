@@ -12,8 +12,8 @@
   }],
   "support": {"issues": "https://github.com/sirjeff/linkage/issues"},
   "require": {
-    "silverstripe/cms": "~3.0",
-    "silverstripe/framework": "~3.0"
+    "silverstripe/cms": ">=3.0 <4.0",
+    "silverstripe/framework": ">=3.0 <4.0"
   },
   "extra": {
     "installer-name": "linkage",
