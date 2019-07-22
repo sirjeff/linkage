@@ -1,5 +1,5 @@
 # Linkage
-Linkage add-on for SilverStripe
+Linkage add-on for SilverStripe 4 (WIP!)
 
 ## Introduction
 
